@@ -24,5 +24,4 @@ choice = input(remark+' '+'choice from these options :-')
 
 if choice == 'y':
     webbrowser.open('https://www.youtube.com')
-else:
-    Warning('hey there')
+
